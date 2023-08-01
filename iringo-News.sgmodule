@@ -1,3 +1,5 @@
+#!name=🍎 News
+
 [Rule]
 # > iCloud
 DOMAIN,gateway.icloud.com,🍎 News
